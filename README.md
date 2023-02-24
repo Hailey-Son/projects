@@ -14,3 +14,12 @@ Following is a description of each files in cyclistic-case-study:
 
 ## Case Study 2: How Can a Wellness Technology Company Play It Smart?
 As a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused products for women, given a task to gain insight into how consumers are using their smart devices. The insights will then help guide marketing strategy for the company. 
+
+All analysis and visualizations for this case study are contained in cyclistic-case-study.
+Following is a description of each files in cyclistic-case-study:
+- Bellabeat_case_study_analysis.ipynb : python file for the analysis. 
+- bellabeat_case_study.sql : postgreSQL script to review data.
+- fitbit case study2.pbix : visual dashboard to show tables/charts
+- BellaBeat Case Study Power BI report.pdf : Completed Power BI report in pdf form. 
+
+##DS-projefts (WIP)
