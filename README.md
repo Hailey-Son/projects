@@ -22,4 +22,10 @@ Following is a description of each files in cyclistic-case-study:
 - fitbit case study2.pbix : visual dashboard to show tables/charts
 - BellaBeat Case Study Power BI report.pdf : Completed Power BI report in pdf form. 
 
-## DS-projefts (WIP)
+## DS-projects
+
+Below are my personal data science projects
+
+#### House_prices_prediction
+
+This is a project for predicting house sales prices. Dataset is available under: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
